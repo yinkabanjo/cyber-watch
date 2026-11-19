@@ -1,7 +1,7 @@
 # Cyber Attack Watch — data
 
 Data behind SprintRight Technologies' public tracker of significant cyberattacks:
-**https://sprintright.tech/cyber-watch/**
+**https://sprintright.tech/cyberwatch/**
 
 Updated weekly (Mondays, Lagos time) by an automated sweep of public reporting.
 
