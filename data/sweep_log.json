@@ -1,0 +1,11 @@
+[
+ {
+  "sweep_date": "2026-11-19",
+  "kind": "Initial build",
+  "window": "2026-10-01 to 2026-11-19",
+  "incidents_added": 10,
+  "advisories_added": 8,
+  "notes": "Baseline built from public reporting. Microsoft outage included for context only (not an attack).",
+  "unreachable_sites": "None"
+ }
+]

@@ -1,0 +1,66 @@
+[
+ {
+  "date": "2026-10-12",
+  "issuer": "CERT-FR (ANSSI)",
+  "region": "France",
+  "advisory": "Alert on compromised remotely managed refrigeration controllers (Danfoss, Copeland, Dixell)",
+  "relates_to": "INC-001; INC-004",
+  "source_url": "https://www.incibe.es/en/incibe-cert/publications/cybersecurity-highlights/cyberattack-supermarket-refrigeration-systems-france"
+ },
+ {
+  "date": "2026-10-22",
+  "issuer": "UK Cabinet Office",
+  "region": "United Kingdom",
+  "advisory": "'Be Ready' campaign: households urged to stock water, food and supplies for 3 days of disruption, incl. cyberattacks",
+  "relates_to": "Preparedness",
+  "source_url": "https://www.radiox.co.uk/news/uk-world/government-launches-new-push-to-prepare-uk-fo/"
+ },
+ {
+  "date": "2026-10-26",
+  "issuer": "CISA",
+  "region": "USA",
+  "advisory": "PHP2Shell CVEs added to Known Exploited Vulnerabilities catalogue",
+  "relates_to": "INC-003",
+  "source_url": "https://www.dualmedia.com/php2shell-active-exploitation/"
+ },
+ {
+  "date": "2026-11-02",
+  "issuer": "33 governments (incl. France, UK)",
+  "region": "Global",
+  "advisory": "At least 33 countries advise households to stockpile essentials (72 hours in France and UK)",
+  "relates_to": "Preparedness",
+  "source_url": "https://www.thevibes.com/articles/world/129067/thirty-three-countries-urge-households-to-stockpile-essential-supplies-for-emergencies"
+ },
+ {
+  "date": "2026-11-04",
+  "issuer": "ENISA, European Commission, Europol EC3, EU CSIRTs Network",
+  "region": "European Union",
+  "advisory": "Joint statement: remove internet access to remotely controlled refrigeration systems immediately",
+  "relates_to": "INC-004; INC-005",
+  "source_url": "https://securityaffairs.com/?p=202528"
+ },
+ {
+  "date": "2026-11-05",
+  "issuer": "Five US agencies",
+  "region": "USA",
+  "advisory": "Warning of ongoing attacks on refrigeration and cold-chain systems",
+  "relates_to": "INC-004",
+  "source_url": "https://socradar.io/blog/critical-infrastructure-freezers-ot/"
+ },
+ {
+  "date": "2026-11-09",
+  "issuer": "French government",
+  "region": "France",
+  "advisory": "Formal attribution of October refrigeration attacks to Iran; Iranian ambassador summoned",
+  "relates_to": "INC-001",
+  "source_url": "https://abc30.com/post/france-blames-iran-last-months-cyberattack-supermarket-fridges-war-israel-us-continues/20027575/"
+ },
+ {
+  "date": "2026-11-16",
+  "issuer": "Google Threat Intelligence Group",
+  "region": "Global",
+  "advisory": "Expects sophisticated fully autonomous AI attacks within six months",
+  "relates_to": "INC-009",
+  "source_url": "https://bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon"
+ }
+]
